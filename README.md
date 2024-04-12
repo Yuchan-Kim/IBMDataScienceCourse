@@ -1,2 +1,2 @@
 # IBMDataScienceCourse
-This repo is for my personal practice with Data Science course from Coursera
+This repo is for my practice with a Data Science course from Coursera
